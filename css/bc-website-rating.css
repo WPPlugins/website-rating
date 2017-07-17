@@ -1,0 +1,25 @@
+
+div.web-rate {
+    width: 300px;
+    margin:20px 0;
+}
+div.web-rate .star {
+    float: left;
+     width: 40px;
+}
+
+div.web-rate .value {
+    float: left;
+    margin: 0 15px;
+    width: 40px;
+}
+
+div.web-rate .rattting {
+margin-left:80px;
+width:190px;
+}
+div.web-rate .rating{
+   height: 15px; 
+   }
+
+div.clear{ clear: both; }
